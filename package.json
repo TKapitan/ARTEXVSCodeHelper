@@ -3,6 +3,10 @@
   "displayName": "ARTEX Helpers",
   "description": "AL Language extension helper for ARTEX-IS",
   "version": "0.0.1",
+  "publisher": "artex-is",
+  "repository": {
+    "url": "https://github.com/TKapitan/ARTEXVSCodeHelper"
+  },
   "engines": {
     "vscode": "^1.73.0"
   },
